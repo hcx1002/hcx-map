@@ -24,8 +24,8 @@ npm run build
 
 ##效果图
 
-![image](https://github.com/hcx1002/hcx-map/blob/master/src/assets/h1.png)
+![image](src/assets/h1.png)
 
-![image](https://github.com/hcx1002/hcx-map/blob/master/src/assets/h2.png)
+![image](src/assets/h2.png)
 
-![image](https://github.com/hcx1002/hcx-map/blob/master/src/assets/h3.png)
+![image](src/assets/h3.png)
