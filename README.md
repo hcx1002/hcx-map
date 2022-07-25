@@ -1,31 +1,31 @@
 # 腾讯地图VUE组件
+
 ## 获取地图经纬度，搜索地图位置
+
 #### 本工具方便后台管理系统获取地图标点经纬度，支持搜索地点，地点列表
 
-## Project setup
+## 安装
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 构建
+
 ```
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
+##效果图
 
-### Lints and fixes files
-```
-npm run lint
-```
+![image](https://github.com/hcx1002/hcx-map/blob/master/src/assets/h1.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://github.com/hcx1002/hcx-map/blob/master/src/assets/h2.png)
+
+![image](https://github.com/hcx1002/hcx-map/blob/master/src/assets/h3.png)
