@@ -22,6 +22,12 @@ npm run serve
 npm run build
 ```
 
+### 使用说明
+```
+修改 public/index.html 的script里的 key
+key 需要在腾讯地图开发平台获取
+```
+
 ## 效果图
 
 ![image](src/assets/map1.png)
